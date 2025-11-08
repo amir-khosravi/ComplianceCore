@@ -171,7 +171,6 @@ python src/llm_finetuning.py --dataset data/fine_tuning_datasets/compliance_exam
 - **Memory Usage**: 8-16GB RAM (with GPU acceleration)
 - **Accuracy**: 60-70% compliance detection accuracy (improving with domain-specific training)
 - **Report Generation**: Under 1 minute for typical documents
-- **Current Status**: Rule-based fallback system operational, LLM fine-tuning in progress
 
 ## 🤝 Contributing
 
@@ -182,10 +181,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 3. Make your changes
 4. Add tests if applicable
 5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
