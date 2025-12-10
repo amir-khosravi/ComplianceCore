@@ -64,7 +64,7 @@ The CAELUS system consists of four main components:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ComplianceCore.git
+git clone https://github.com/amir-khosravi/ComplianceCore.git
 cd ComplianceCore
 ```
 
